@@ -32,8 +32,8 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program:
 
-### Developed By:Himavath M
-### Register No:212223240053
+### Developed By: MUSFIRA MAHJABEEN M
+### Register No:212223230130
 
 ## i) Write the frame as JPG file
 ```
